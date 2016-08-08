@@ -1,0 +1,26 @@
+{
+    "name": "tyus/gcms-extjs",
+    "description": "extjs for Yii 2.",
+    "keywords": [
+        "yii2",
+        "extension",
+        "widget",
+        "extjs"
+    ],
+    "homepage": "https://github.com/tyus/gcms-extjs",
+    "type": "yii2-extension",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Rany Huang",
+            "email": "q529658851@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "gcms\\extjs\\": ""
+        }
+    }
+}
