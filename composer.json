@@ -1,5 +1,5 @@
 {
-    "name": "tyus/gcms-extjs",
+    "name": "tyus/yii2-gcms-extjs",
     "description": "extjs for Yii 2.",
     "keywords": [
         "yii2",
@@ -7,7 +7,7 @@
         "widget",
         "extjs"
     ],
-    "homepage": "https://github.com/tyus/gcms-extjs",
+    "homepage": "https://github.com/tyus/yii2-gcms-extjs",
     "type": "yii2-extension",
     "license": "GPL v3",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "gcms\\extjs\\": ""
+            "tyus\\gcmsextjs\\": ""
         }
     }
 }

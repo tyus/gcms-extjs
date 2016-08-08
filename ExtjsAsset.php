@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace gcms\extjs\assets;
+namespace tyus\gcmsextjs;
 
 use yii\web\AssetBundle;
 
